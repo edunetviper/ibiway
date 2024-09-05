@@ -1,6 +1,7 @@
 
 # Aplicativo: IbiWay
-### Leia o PDF "Objetivo_IbiWay" para uma descrição mais completa
+##### Leia o PDF "Objetivo_IbiWay" para uma descrição mais completa
+
 
 ## Objetivo:
 O IbiWay é um aplicativo projetado para ajudar os cidadãos a planejar suas viagens de forma eficiente e flexível em cidades inteligentes. Ele integra dados em tempo real dos sistemas de transporte público e serviços de carona privada, oferecendo as melhores opções de deslocamento com base em critérios como tempo de viagem, custo, lotação e sustentabilidade.
