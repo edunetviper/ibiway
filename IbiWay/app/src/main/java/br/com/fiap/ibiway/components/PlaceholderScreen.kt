@@ -14,11 +14,5 @@ import androidx.compose.ui.unit.sp
 fun PlaceholderScreen(
     text: String
 ) {
-    Column(
-        modifier = Modifier.fillMaxSize(),
-        verticalArrangement = Arrangement.Center,
-        horizontalAlignment = Alignment.CenterHorizontally
-    ) {
-        Text(text = text, fontSize = 18.sp)
-    }
+    Text(text = text, fontSize = 18.sp)
 }
